@@ -1,0 +1,122 @@
+{
+  "region": "Eastern Africa",
+  "size_square_km": 6700000,
+  "central_coordinates": {
+    "latitude": -1.9579,
+    "longitude": 37.2972
+  },
+  "countries": [
+    {
+      "name": "Burundi",
+      "description": "A small landlocked country known for its beautiful landscapes and rich cultural heritage."
+    },
+    {
+      "name": "Comoros",
+      "description": "An island nation off the coast, known for beaches and diverse wildlife."
+    },
+    {
+      "name": "Djibouti",
+      "description": "Strategic location on the Red Sea in the Horn of Africa."
+    },
+    {
+      "name": "Eritrea",
+      "description": "A Horn of Africa country with a rich history and diverse landscapes."
+    },
+    {
+      "name": "Ethiopia",
+      "description": "One of the oldest countries, known for its rich history and diverse cultures."
+    },
+    {
+      "name": "Kenya",
+      "description": "Popular tourist destination with landscapes like the Maasai Mara and Mount Kenya."
+    },
+    {
+      "name": "Madagascar",
+      "description": "Large island nation with unique wildlife and diverse cultures."
+    },
+    {
+      "name": "Malawi",
+      "description": "Landlocked country known for its beautiful lakes and diverse wildlife."
+    },
+    {
+      "name": "Mauritius",
+      "description": "Island nation in the Indian Ocean, famous for its beaches and resorts."
+    },
+    {
+      "name": "Mayotte",
+      "description": "A French overseas department in the Indian Ocean."
+    },
+    {
+      "name": "Mozambique",
+      "description": "Southeast African country with beaches, wildlife, and a rich cultural heritage."
+    },
+    {
+      "name": "Rwanda",
+      "description": "Landlocked country with stunning landscapes and friendly people."
+    },
+    {
+      "name": "Seychelles",
+      "description": "An island nation with beautiful beaches and luxury resorts."
+    },
+    {
+      "name": "Somalia",
+      "description": "Horn of Africa country with a rich history and diverse cultures."
+    },
+    {
+      "name": "South Sudan",
+      "description": "Landlocked country with diverse landscapes and rich cultural heritage."
+    },
+    {
+      "name": "Tanzania",
+      "description": "Home to the Serengeti and Mount Kilimanjaro."
+    },
+    {
+      "name": "Uganda",
+      "description": "Known for its diverse wildlife, including gorillas and chimpanzees."
+    }
+  ],
+  "climate": {
+    "description": "Tropical climate, with variations from arid and semi-arid areas in the north to tropical rainforest climates in the center and west. Coastal areas have a warm and humid climate, while mountainous regions are cooler and experience higher rainfall."
+  },
+  "animorphs": {
+    "fire_type": [
+      "Aardvark",
+      "African Lion",
+      "Cheetah",
+      "Elephant",
+      "Flamingo",
+      "Giraffe",
+      "Secretary Bird",
+      "Spotted Hyena"
+    ],
+    "electric_type": [
+      "Cobra",
+      "Elephant",
+      "Falcon",
+      "Giraffe",
+      "Leopard",
+      "Scorpion"
+    ],
+    "ground_type": [
+      "Black Rhino",
+      "Elephant Shrew",
+      "Giraffe",
+      "Golden Retriever",
+      "Gorilla",
+      "Meerkat",
+      "Rhinoceros",
+      "Tortoise",
+      "Wild Boar"
+    ],
+    "water_type": [
+      "Crocodile",
+      "Dragonfly",
+      "Eel",
+      "Heron",
+      "Hippo",
+      "Kingfisher",
+      "Otter",
+      "Tree Frog"
+    ]
+  }
+}
