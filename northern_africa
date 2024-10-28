@@ -1,0 +1,75 @@
+{
+  "region": "North Africa",
+  "size_square_km": 6070000,
+  "central_coordinates": {
+    "latitude": 25.0000,
+    "longitude": 13.0000
+  },
+  "countries": [
+    {
+      "name": "Algeria",
+      "description": "Largest country in Africa, known for its diverse landscapes, rich history, and oil reserves."
+    },
+    {
+      "name": "Egypt",
+      "description": "Home to ancient civilizations like the Egyptians and Nubians, with iconic landmarks like the Pyramids of Giza and the Nile River."
+    },
+    {
+      "name": "Libya",
+      "description": "Known for significant oil and gas resources, with a rich history."
+    },
+    {
+      "name": "Morocco",
+      "description": "Known for stunning coastal cities, historic medinas, and parts of the Sahara Desert."
+    },
+    {
+      "name": "Sudan",
+      "description": "Known for the Nile River and Nubian Desert, with varied terrain."
+    },
+    {
+      "name": "Tunisia",
+      "description": "Noted for beautiful beaches, ancient Roman ruins, and vibrant cultural sites."
+    },
+    {
+      "name": "Western Sahara",
+      "description": "Disputed territory claimed by Morocco and the Polisario Front."
+    }
+  ],
+  "climate": {
+    "description": "Primarily arid and semi-arid with desert regions (Sahara) covering most of the area. Mediterranean climate along the northern coastlines, with hot, dry summers and mild, rainy winters. Variable rainfall with minimal annual rainfall in most areas, but moderate in coastal and higher altitude regions."
+  },
+  "animorphs": {
+    "fire_type": [
+      "African Lion",
+      "Cheetah",
+      "Elephant",
+      "Flamingo",
+      "Giraffe",
+      "Honey Badger",
+      "Secretary Bird",
+      "Spotted Hyena"
+    ],
+    "electric_type": [
+      "Cobra",
+      "Elephant",
+      "Falcon",
+      "Giraffe",
+      "Scorpion"
+    ],
+    "ground_type": [
+      "Addax",
+      "Dung Beetle",
+      "Giraffe",
+      "Jerboa",
+      "Meerkat",
+      "Tortoise"
+    ],
+    "water_type": [
+      "Crocodile",
+      "Dragonfly",
+      "Heron",
+      "Kingfisher",
+      "Tree Frog"
+    ]
+  }
+}
